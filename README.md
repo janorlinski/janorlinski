@@ -2,6 +2,8 @@
 
 Nuclear & Particle Physics student @ University of Warsaw. 
 
+Member of HADES Collaboration.  
+
 Junior C++ developer @ Smarttech3D.
 
 

@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @janorlinski!
 
-Nuclear & Particle Physics student @ University of Warsaw. Junior C++ developer @ Smarttech3D.
+Nuclear & Particle Physics student @ University of Warsaw. 
+
+Junior C++ developer @ Smarttech3D.
 
 
 <!---

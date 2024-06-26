@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @janorlinski!
 
 PhD student in nuclear physics @ University of Warsaw. 
-Member of HADES Collaboration. Member of Nuclear & Particle Physics Science Club (UW), deputy secretary of PhD Students' Council (UW). Based in Warsaw.
+
+Member of HADES Collaboration. Member of Nuclear & Particle Physics Science Club (UW). Activist of the PhD Students' Union (UW). Based in Warsaw.
 
 E-mail: jan.orlinski@fuw.edu.pl
 
